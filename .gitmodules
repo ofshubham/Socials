@@ -1,0 +1,6 @@
+[submodule "socials-ms-apps"]
+	path = socials-ms-apps
+	url = git@github.com:ofshubham/socials-ms-apps.git
+[submodule "socials-client"]
+	path = socials-client
+	url = git@github.com:ofshubham/socials-client.git
